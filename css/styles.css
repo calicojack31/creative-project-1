@@ -1,0 +1,144 @@
+body {
+  color: #1a1a1a;
+  background-color: #f2f2f2;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.bg-dark {
+  background-color: #1a1a1a !important;
+  color: #e6f2ff !important;
+}
+
+hr {
+  height: 12px;
+  border: 10;
+  box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h6 {
+  color: #088c53;
+}
+
+p {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1,
+h5 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+.tagline {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+p {
+  font-size: 1.25em;
+}
+
+.poem {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.col-lg {
+  margin-bottom: 2em;
+}
+
+.giant-mark {
+  font-size: 15em;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  margin-top: -.25em;
+  margin-bottom: -.25em;
+}
+
+.footer-text {
+  font-size: .8em;
+  text-align: center;
+}
+
+li {
+  text-align: center;
+  font-size: .8em;
+}
+
+.page-title {
+  margin-top: 18px;
+}
+
+.review-text,
+.review-person {
+  margin: 0 20px;
+}
+
+.page-footer {
+  margin-top: 1em;
+  background-color: #c1e6cc;
+}
+
+a {
+  color: #000066;
+}
+
+.below-photo {
+  margin-top: 18px;
+}
+
+.navbar {
+  min-height: 25px;
+  font-size: 25px;
+  border-bottom: .15em solid #088c53;
+}
+
+.navbar-brand {
+  padding: 0 15px;
+  height: 80px;
+  line-height: 80px;
+  font-size: 25px;
+  color: #f2f2f2 !important;
+}
+
+.navbar-toggler {
+  border-color: #f2f2f2 !important;
+}
+
+.col-lg {
+  text-align: center;
+  width: 100%;
+}
+
+.package-name {
+  margin-top: 1.25em;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.package-image {
+  text-align: center;
+}
+
+.guilt-trip {
+  text-align: center;
+}
